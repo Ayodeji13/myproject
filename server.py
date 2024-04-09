@@ -13,4 +13,4 @@ def hello_world():
 
 @app.route('/blog')
 def blog():
-   return 'my thoughts on blogs'
+   return ''
